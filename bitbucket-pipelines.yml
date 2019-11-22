@@ -7,7 +7,6 @@ pipelines:
           - gem install bundler
           - bundle install
           - bundle exec jekyll build
-          - bundle exec htmlproofer ./_site --url-ignore "/#.*/"
   branches:
     master:
       - step:
@@ -15,5 +14,4 @@ pipelines:
             - gem install bundler
             - bundle install
             - bundle exec jekyll build
-            - bundle exec htmlproofer ./_site --url-ignore "/#.*/"
             - git push https://$githubtoken@github.com/modelabcl/modelabcl.github.io.git master 
