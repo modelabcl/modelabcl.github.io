@@ -4,6 +4,7 @@ pipelines:
   default:
     - step:
         script: # Modify the commands below to build your repository.
+          - gem install bundler
           - bundle install
           - bundle exec jekyll build
           - bundle exec htmlproofer ./_site --url-ignore "/#.*/"
@@ -11,6 +12,7 @@ pipelines:
     master:
       - step:
           script:
+            - gem install bundler
             - bundle install
             - bundle exec jekyll build
             - bundle exec htmlproofer ./_site --url-ignore "/#.*/"
