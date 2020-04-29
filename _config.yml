@@ -19,12 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Modelab
-email:
 description: "Modelab: procesamiento y análisis de datos"
-baseurl: # the subpath of your site, e.g. /blog
 url: "https://www.modelab.cl" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
-github_username:
 
 # Build settings
 plugins:
