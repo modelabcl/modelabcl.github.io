@@ -4,6 +4,18 @@ title: Nosotros
 permalink: /about/
 ---
 
-# Pedro Ramaciotti
-# Claudio Alvarado
-# Matías Reyes
+
+
+### Claudio Alvarado
+
+### Pedro Ramaciotti
+
+### Matías Reyes
+
+
+## Equipo
+
+### José
+
+### Consultores asociados
+

@@ -9,4 +9,6 @@ layout: page
 
 Ingeniería y ciencia de datos
 
---> Imagen / grafo
+![alt text](assets/img/placeholder.jpg "Logo Title Text 1")
+
+Estamos renovando nuestra página...
