@@ -9,6 +9,6 @@ layout: page
 
 Ingeniería y ciencia de datos
 
-![dropdown](https://github.com/modelabcl/modelabcl.github.io/tree/master/assets/img/placeholder.jpg "faceimage")
+![cover image](https://github.com/modelabcl/modelabcl.github.io/blob/master/assets/img/cover.png)
 
 Estamos renovando nuestra página...

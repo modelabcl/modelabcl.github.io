@@ -5,7 +5,6 @@ permalink: /about/
 ---
 
 
-
 ### Claudio Alvarado
 
 ### Pedro Ramaciotti
@@ -18,4 +17,11 @@ permalink: /about/
 ### José
 
 ### Consultores asociados
+
+Gabriel
+
+Florencia 
+
+Giacomo
+
 
