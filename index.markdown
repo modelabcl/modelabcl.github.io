@@ -7,8 +7,11 @@ layout: page
 
 ## Modelab
 
-Ingeniería y ciencia de datos
+Data Science & Data Engineering
 
-![cover image](https://github.com/modelabcl/modelabcl.github.io/blob/master/assets/img/cover.png)
+<p float="center">
+  <img src="https://github.com/modelabcl/modelabcl.github.io/blob/master/assets/img/cover.png" height="500" />
+</p>
+
 
 Estamos renovando nuestra página...
