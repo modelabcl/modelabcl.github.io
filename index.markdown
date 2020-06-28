@@ -10,7 +10,7 @@ layout: page
 Data Science & Data Engineering
 
 <p float="center">
-  <img src="https://github.com/modelabcl/modelabcl.github.io/blob/master/assets/img/cover.png" height="500" />
+  <img src=" modelabcl.github.io/assets/img/cover.png" height="500" />
 </p>
 
 
