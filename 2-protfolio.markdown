@@ -4,8 +4,4 @@ title: Portafolio
 permalink: /portfolio/
 ---
 
- -> Ejemplo de arquitectura simple
-
- -> Ejemplo arquitectura complejo
-
- -> Ejemplo DS
+This page is under construction...

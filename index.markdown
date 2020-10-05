@@ -5,13 +5,16 @@
 layout: page
 ---
 
-## Modelab
 
-Data Science & Data Engineering
 
 <p float="center">
-  <img src=" modelabcl.github.io/assets/img/cover.png" height="500" />
+  <img src=" assets/img/cover.png" height="350" width="800"/>
 </p>
 
 
-Estamos renovando nuestra página...
+## Modelab
+
+#### Consultores en Data Science, Data Engineering & Business Intelligence
+
+Somos expertos en desarrollar y avanzar proyectos de datos en todas sus fases. Desde I+D hasta la entrada en producción.
+

@@ -4,4 +4,4 @@ title: Galería
 permalink: /gallery/
 ---
 
-Imágenes / presentaciones
+This page is under construction...
