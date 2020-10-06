@@ -41,14 +41,15 @@ permalink: /about/
   <div class="column">
   	<img src="{{site.baseurl}}/assets/img/Headshots/pablo.jpeg" height="150" width="150"/>
   	<h3>Pablo Opazo</h3>
-	<b>Site realiability Eng.</b>
+	<b>Site Realiability Eng.</b>
   	Ingeniero en ciencias de la computación de INACAP y diplomado en ingeniería informática de la P. Universidad de Chile. Experto en administración de sistemas e infraestructuras y en High-Performance Computing (HPC).
   </div>
   <div class="column">
   	<img src="{{site.baseurl}}/assets/img/Headshots/jose.jpeg" height="150" width="150"/>
   	<h3>José Paradas</h3>
+  	<b>Full stack Eng.</b>
 
-  	Description description description description description description
+  	Ingeniero informático de la Universidad Alejandro Humboldt, Venezuela. Experto en plataformas web, desde el back-end hasta el front-end.
   </div>
 </div> 
 
@@ -61,7 +62,7 @@ permalink: /about/
   	<h3>Gabriel Muñoz</h3>
   	<b>Data associate</b>
 
-  	Licenciado en matemáticas, magíster y Ph.D. (c) en estadística de la P. Universidad Católica. Experto en análisis estadístico de datos. Profesor de estadística de
+  	Licenciado en matemáticas, magíster y Ph.D. (c) en estadística de la P. Universidad Católica. Experto en análisis estadístico de datos. Profesor de matemáticas y estadística de la Universidad Técnica Federico Santa María.
   </div>
   <div class="column">
   	<img src="{{site.baseurl}}/assets/img/Headshots/florencia.jpeg" height="150" width="150"/>
