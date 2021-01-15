@@ -33,25 +33,13 @@ permalink: /about/
 
 <div class="row">
   <div class="column">
-  	<img src="{{site.baseurl}}/assets/img/Headshots/mariajose.jpeg" height="150" width="150"/>
-  	<h3>María José Gamonal</h3>
-  	<b>Data Engineer</b>
-  	Ingeniera industrial de la Universidad Adolfo Ibáñez, magíster en Operations Research de la University of Columbia. Ha participado en proyecto de investigación e industriales, experta en análisis de datos y machine learning.
-  </div>
-  <div class="column">
-  	<img src="{{site.baseurl}}/assets/img/Headshots/pablo.jpeg" height="150" width="150"/>
-  	<h3>Pablo Opazo</h3>
-	<b>Site Realiability Eng.</b>
-  	Ingeniero en ciencias de la computación de INACAP y diplomado en ingeniería informática de la P. Universidad de Chile. Experto en administración de sistemas e infraestructuras y en High-Performance Computing (HPC).
-  </div>
-  <div class="column">
   	<img src="{{site.baseurl}}/assets/img/Headshots/jose.jpeg" height="150" width="150"/>
   	<h3>José Paradas</h3>
   	<b>Full stack Eng.</b>
 
   	Ingeniero informático de la Universidad Alejandro Humboldt, Venezuela. Experto en plataformas web, desde el back-end hasta el front-end.
   </div>
-</div> 
+</div>
 
 ## Consultores asociados
 
