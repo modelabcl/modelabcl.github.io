@@ -16,5 +16,6 @@ layout: page
 
 #### Consultores en Data Science, Data Engineering & Business Intelligence
 
-Somos expertos en desarrollar y avanzar proyectos de datos en todas sus fases. Desde I+D hasta la entrada en producción.
+
+Desde I+D y valorización de datos, hasta pruebas y entrada en producción para millones de usuarios.
 
